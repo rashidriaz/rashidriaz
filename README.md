@@ -10,7 +10,7 @@
   - Unit Testing (Jest)
 - 📫 You can reach me at:
   - 📧: rashidriax0@gmail.com
-  - instagram: @heyrashidhere
+  - instagram: @hey_rashid_here
   - twitter: @rashidr980
   - upwork: https://www.upwork.com/freelancers/~01de6182b536b750be
 
