@@ -1,6 +1,6 @@
 - 👉👉" I love writing code and do it my best. "👈👈
 - 👋 Hi, My name is Rashid Riaz. I am a student of BS-Software Engineering from Lahore, Pakistan. 
-- 👀 I am a coding passionate working as a front end developer, mainly focused on Flutter/Dart these days.
+- 👀 I am a coding passionate working as a application developer.
 - 🌱 I strive for creating applications with seamless and intuitive user experiences.
  I am constantly learning new technologies to better myself in this rapidly changing industry.
  My professional aspirations are to work with enterprise companies developing software that is used by millions and millions of people every day.
