@@ -1,20 +1,35 @@
-- 👉👉" I love writing code and do it my best. "👈👈
-- 👋 Hi, My name is Rashid Riaz. I am a student of BS-Software Engineering from Lahore, Pakistan. 
-- 👀 I am a coding passionate working as a application developer.
-- 🌱 I strive for creating applications with seamless and intuitive user experiences.
- I am constantly learning new technologies to better myself in this rapidly changing industry.
- My professional aspirations are to work with enterprise companies developing software that is used by millions and millions of people every day.
-- SPECIALTIES
-  - Mobile Framework (Dart & Flutter)
-  - Web Applications (React, GraphQL)
-  - Unit Testing (Jest)
-- 📫 You can reach me at:
-  - 📧: rashidriax0@gmail.com
-  - instagram: @hey_rashid_here
-  - twitter: @rashidr980
-  - upwork: https://www.upwork.com/freelancers/~01de6182b536b750be
+# Hi there, I'm Rashid Riaz! 👋
 
-<!---
-rashidriaz/rashidriaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 _"Crafting digital experiences with a passion for excellence."_ 🌟
+
+I'm a passionate and dedicated Software Engineer based in Lahore, Punjab, Pakistan, with a strong focus on front-end development. I'm currently pursuing my BS-Software Engineering degree and have hands-on experience in the field.
+
+## 🌟 About Me
+
+- 💼 Currently working as a Software Engineer at [Bytofire Ltd](https://bytofire.com/)
+- 🎓 Soon-to-be graduate in BS-Software Engineering
+- 📚 Always eager to learn and improve my skills
+- 🌏 A strong believer in the power of open-source contributions
+- ✉️ Reach me at: [rashidriax0@gmail.com](mailto:rashidriax0@gmail.com)
+
+## 🛠️ Technical Skills
+
+- **Mobile 📱:** Dart & Flutter
+- **Web🖥️:** React, GraphQL, HTML/CSS, JavaScript, TypeScript
+- **Testing:** Jest (Unit Testing), Cypress, Playwright
+
+## 📈 GitHub Stats
+
+![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidriaz&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect
+
+Feel free to reach out and connect with me on:
+
+- [Instagram](https://www.instagram.com/hey_rashid_here/)
+- [Twitter](https://twitter.com/rashidr980)
+- [Upwork](https://www.upwork.com/freelancers/~01de6182b536b750be)
+
+_This `README.md` is made with ❤️ by Rashid Riaz_
+
+---
