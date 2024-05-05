@@ -2,12 +2,14 @@
 
 🌟 _"Crafting digital experiences with a passion for excellence."_ 🌟 
 
-I'm a passionate and dedicated Software Engineer based in Lahore, Punjab, Pakistan. I'm currently pursuing my BS-Software Engineering degree and have hands-on experience in the field. With a passion for excellence, I strive to craft digital experiences that are both engaging and intuitive.
+I'm a passionate and dedicated Software Engineer based in Lahore, Punjab, Pakistan. I have a  BS-Software Engineering degree and have hands-on experience in the field. With a passion for excellence, I strive to craft digital experiences that are both engaging and intuitive.
 
 ## 🌟 About Me
 
-- 💼 Currently working as a Software Engineer at [![Bytofire Ltd](https://framerusercontent.com/images/dWPkofI7ihNVBDwvyPcNzCYeSk.png)](https://bytofire.com/) Bytofire Ltd.
-- 🎓 Soon-to-be graduate in BS-Software Engineering
+- 💼 Working at
+- - [![Bytofire Ltd](https://framerusercontent.com/images/dWPkofI7ihNVBDwvyPcNzCYeSk.png)](https://bytofire.com/) Bytofire Ltd. - Software Engineer
+- - [![Sensys LLC](https://www.sensys.com/wp-content/uploads/2023/08/Sensys-1.svg)](https://sensys.com/) Sensys LLc. - IOT Engineer
+- 🎓 BS-Software Engineering
 - 📚 Always eager to learn and improve my skills
 - 🌏 A strong believer in the power of open-source contributions
 - ✉️ Reach me at: [rashidriax0@gmail.com](mailto:rashidriax0@gmail.com)
@@ -17,6 +19,7 @@ I'm a passionate and dedicated Software Engineer based in Lahore, Punjab, Pakist
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="30" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*SoqCeEz9EctJBXKw.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
