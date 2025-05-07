@@ -1,41 +1,66 @@
-# Hi there, I'm Rashid Riaz! 👋
+# 👋 Hi there, I'm Rashid Riaz!
 
-🌟 _"Crafting digital experiences with a passion for excellence."_ 🌟 
+🌟 _"Crafting scalable software and clean UIs with precision and passion."_ 🌟
 
-I'm a passionate and dedicated Software Engineer based in Lahore, Punjab, Pakistan. I have a  BS-Software Engineering degree and have hands-on experience in the field. With a passion for excellence, I strive to craft digital experiences that are both engaging and intuitive.
+I’m a **Full-Stack Software Engineer** from **Lahore, Pakistan**, with **2+ years of experience** building production-grade applications using **React**, **TypeScript**, **Go**, and **PostgreSQL**. I believe in clean code, thoughtful architecture, and delivering value fast.
 
-## 🌟 About Me
+---
 
-- 💼 Working at
-- - [![Bytofire Ltd](https://framerusercontent.com/images/dWPkofI7ihNVBDwvyPcNzCYeSk.png)](https://bytofire.com/) Bytofire Ltd. - Software Engineer
-- - [![Sensys LLC](https://www.sensys.com/wp-content/uploads/2023/08/Sensys-1.svg)](https://sensys.com/) Sensys LLc. - IOT Engineer
-- 🎓 BS-Software Engineering
-- 📚 Always eager to learn and improve my skills
-- 🌏 A strong believer in the power of open-source contributions
-- ✉️ Reach me at: [rashidriax0@gmail.com](mailto:rashidriax0@gmail.com)
+## 💼 Current Roles
 
-#### 🔧 Technical Skills
+- 🧠 **Software Engineer** at [Bytofire Ltd.](https://bytofire.com/)
+- 🔧 **IoT + Full stack Engineer** at [Sensys LLC](https://sensys.com/)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="30" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*SoqCeEz9EctJBXKw.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png"></code>
+---
 
-#### 📈 GitHub Stats
+## 🧠 Technical Snapshot
+
+- **Languages**: Go, TypeScript, JavaScript, Dart
+- **Frontend**: React, Next.js, Tailwind CSS, Ant Design, Recoil, Ag-Grid, React Native, Flutter
+- **Backend**: Go, REST APIs, GraphQL, Express.js, Azure Functions
+- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase
+- **Dev Tools**: Docker, TurboRepo, Lerna, Git, CI/CD
+- **Concepts**: Microservices, Monorepo Architecture, Event-driven Systems
+
+---
+
+## 🎓 Education
+
+**BS in Software Engineering**  
+COMSATS University Islamabad – Lahore Campus (2019–2024)
+
+---
+
+## 📬 Contact Me
+
+- ✉️ Email: [rashidriax0@gmail.com](mailto:rashidriax0@gmail.com)
+- 🧑‍💻 GitHub: [@rashidriaz](https://github.com/rashidriaz)
+- 🔗 LinkedIn: [rashid-riaz-01202714a](https://www.linkedin.com/in/rashid-riaz-01202714a/)
+- 🧳 Upwork: [@rashidriaz](https://www.upwork.com/freelancers/~01de6182b536b750be)
+
+---
+
+## 🧰 Tools I Use
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="GraphQL"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter"></code>
+
+---
+
+## 📊 GitHub Stats
 
 ![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidriaz&show_icons=true&theme=radical)
 
-#### 🤝 Let's Connect
+---
 
-Feel free to reach out and connect with me on:
+## 🤝 Let's Connect
 
 <a href="mailto:rashidriax0@gmail.com" target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
@@ -50,6 +75,6 @@ Feel free to reach out and connect with me on:
   <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
 </a>
 
-_This `README.md` is made with ❤️ by Rashid Riaz_
-
 ---
+
+_This `README.md` is designed with 💡 by Rashid Riaz — always open to new opportunities and collaborations!_
