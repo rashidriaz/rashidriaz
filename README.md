@@ -41,8 +41,6 @@ DocFlow is public — [github.com/rashidriaz/docflow](https://github.com/rashidr
   <img alt="contribution snake" src="https://raw.githubusercontent.com/rashidriaz/rashidriaz/output/github-snake.svg" width="100%" />
 </picture>
 
-![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidriaz&show_icons=true&theme=transparent&hide_border=true&title_color=2f6fed&icon_color=2f6fed)
-
 ---
 
 ### 📬 Contact
