@@ -1,0 +1,18 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0d13"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" rx="14" fill="url(#bge)" stroke="#2a3342" stroke-width="1.5"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.45s" fill="freeze"/>
+    <circle cx="65" cy="65" r="30" fill="#151b26" stroke="#2a3342" stroke-width="1.5"/>
+    <text x="65" y="76" font-size="26" text-anchor="middle">&#127891;</text>
+    <text x="115" y="52" font-size="17" font-weight="700" fill="#eef2f7">BS in Software Engineering</text>
+    <text x="115" y="76" font-size="13.5" font-weight="600" fill="#6f9bf5">COMSATS University Islamabad &#8211; Lahore Campus</text>
+    <text x="115" y="97" font-size="12.5" fill="#8b94a3">2019 &#8211; 2024</text>
+  </g>
+</svg>

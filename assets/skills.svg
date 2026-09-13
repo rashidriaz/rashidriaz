@@ -1,0 +1,79 @@
+<svg width="1200" height="290" viewBox="0 0 1200 290" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0d13"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="290" fill="url(#bgs)"/>
+
+  <g transform="translate(40,20)">
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.45s" fill="freeze"/>
+    <text x="0" y="30" font-size="13" font-weight="700" fill="#6f9bf5" dominant-baseline="middle">Languages</text>
+    <rect x="190" y="13" width="37.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="208.6" y="30" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Go</text><rect x="235.2" y="13" width="90.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="280.2" y="30" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">TypeScript</text><rect x="333.2" y="13" width="70.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="368.3" y="30" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">C#/.NET</text><rect x="411.4" y="13" width="90.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="456.4" y="30" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">JavaScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.45s" fill="freeze"/>
+    <text x="0" y="74" font-size="13" font-weight="700" fill="#6f9bf5" dominant-baseline="middle">Frontend</text>
+    <rect x="190" y="57" width="57.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="218.5" y="74" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">React</text><rect x="255" y="57" width="70.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="290.1" y="74" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Next.js</text><rect x="333.2" y="57" width="103.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="384.8" y="74" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Tailwind CSS</text><rect x="444.4" y="57" width="109.8" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="499.3" y="74" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Framer Motion</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.45s" fill="freeze"/>
+    <text x="0" y="118" font-size="13" font-weight="700" fill="#6f9bf5" dominant-baseline="middle">Backend</text>
+    <rect x="190" y="101" width="37.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="208.6" y="118" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Go</text><rect x="235.2" y="101" width="50.4" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="260.4" y="118" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">.NET</text><rect x="293.59999999999997" y="101" width="63.6" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="325.4" y="118" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">NestJS</text><rect x="365.19999999999993" y="101" width="50.4" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="390.4" y="118" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">REST</text><rect x="423.5999999999999" y="101" width="50.4" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="448.8" y="118" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">gRPC</text><rect x="481.9999999999999" y="101" width="70.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="517.1" y="118" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">GraphQL</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.45s" fill="freeze"/>
+    <text x="0" y="162" font-size="13" font-weight="700" fill="#6f9bf5" dominant-baseline="middle">Databases</text>
+    <rect x="190" y="145" width="90.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="235.0" y="162" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">PostgreSQL</text><rect x="288" y="145" width="90.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="333.0" y="162" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">SQL Server</text><rect x="386" y="145" width="70.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="421.1" y="162" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">MongoDB</text><rect x="464.2" y="145" width="57.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="492.7" y="162" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Redis</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.45s" fill="freeze"/>
+    <text x="0" y="206" font-size="13" font-weight="700" fill="#6f9bf5" dominant-baseline="middle">Infra &amp; Messaging</text>
+    <rect x="190" y="189" width="57.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="218.5" y="206" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Kafka</text><rect x="255" y="189" width="116.4" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="313.2" y="206" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">NATS JetStream</text><rect x="379.4" y="189" width="76.8" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="417.8" y="206" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">RabbitMQ</text><rect x="464.2" y="189" width="63.6" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="496.0" y="206" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Docker</text><rect x="535.8" y="189" width="76.8" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="574.2" y="206" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Keycloak</text><rect x="620.5999999999999" y="189" width="63.6" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="652.4" y="206" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Stripe</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.45s" fill="freeze"/>
+    <text x="0" y="250" font-size="13" font-weight="700" fill="#6f9bf5" dominant-baseline="middle">Concepts</text>
+    <rect x="190" y="233" width="136.2" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="258.1" y="250" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Multi-Tenant SaaS</text><rect x="334.2" y="233" width="189.0" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="428.7" y="250" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Event-Driven Architecture</text><rect x="531.2" y="233" width="109.8" height="26" rx="13" fill="#151b26" stroke="#2a3342"/>
+      <text x="586.1" y="250" font-size="12.5" font-weight="600" fill="#eef2f7" text-anchor="middle" dominant-baseline="middle">Microservices</text>
+  </g>
+
+  </g>
+
+  <rect x="-300" y="0" width="300" height="290" fill="url(#sheen)">
+    <animate attributeName="x" from="-300" to="1200" dur="3.5s" begin="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
